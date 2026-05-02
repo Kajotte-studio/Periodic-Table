@@ -201,13 +201,11 @@
         details.appendChild(createP(labels[lang].num, el.n));
         details.appendChild(createP(labels[lang].mass, el.m + labels[lang].unit));
 
-        // 1. PRZYCISK KOPIOWANIA
         const copyBtn = document.createElement('button');
         copyBtn.className = 'copy-btn';
         copyBtn.textContent = labels[lang].copy;
         copyBtn.addEventListener('click', () => secureCopy(el.m, copyBtn));
 
-        // 2. PRZYCISK POWROTU DO KALKULATORA (Nawigacja)
         const calcBtn = document.createElement('button');
         calcBtn.className = 'transfer-btn'; // Używamy tej samej klasy dla spójnego stylu
         calcBtn.textContent = labels[lang].calc;
@@ -216,7 +214,6 @@
             window.open(url, '_blank', 'noopener,noreferrer');
         });
 
-        // 3. LINK DO WIKIPEDII
         const wikiLink = document.createElement('a');
         wikiLink.className = 'wiki-link';
         wikiLink.target = '_blank';
