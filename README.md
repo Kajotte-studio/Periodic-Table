@@ -4,7 +4,6 @@
 
 A lightweight and high-performance **Periodic Table of Elements** module, built with precision, minimalism, and educational value in mind. This project is a key component of the **Kajotte Studio** digital ecosystem.
 
-[GitHub License](https://img.shields.io/github/Kajotte-studio/Periodic-Table)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kajotte-studio/Periodic-table)
 ![GitHub top language](https://img.shields.io/github/languages/top/Kajotte-studio/Periodic-table)
 ![CodeQL](https://github.com/Kajotte-studio/Periodic-table/actions/workflows/github-code-scanning/codeql/badge.svg)
