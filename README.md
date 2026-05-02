@@ -1,3 +1,5 @@
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
+
 # Periodic-Table
 
 A lightweight and high-performance **Periodic Table of Elements** module, built with precision, minimalism, and educational value in mind. This project is a key component of the **Kajotte Studio** digital ecosystem.
