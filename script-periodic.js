@@ -6,7 +6,8 @@
  * https://kajotte-studio.com/docs
  */
 (function() {
-    const lang = document.currentScript.getAttribute('data-lang') || 'pl';
+    const rawLang = (document.currentScript.getAttribute('data-lang') || 'pl').toLowerCase();
+    const lang = rawLang === 'pl' || rawLang === 'en' ? rawLang : 'pl';
     const container = document.getElementById(`periodic-table-${lang}`);
 
     const elements = [
