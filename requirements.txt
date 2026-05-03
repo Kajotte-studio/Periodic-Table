@@ -1,0 +1,2 @@
+# Kajotte Studio: Pure HTML/JS/CSS project. 
+# No Python dependencies at the moment.
