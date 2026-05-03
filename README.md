@@ -12,6 +12,8 @@ A lightweight and high-performance **Periodic Table of Elements** module, built 
 You can see the project in action directly on our website:
 [View Periodic Table of Elements](https://kajotte-studio.com/index_periodic_en.html)
 
+![GitHub License](https://img.shields.io/github/license/Kajotte-studio/Periodic-Table?color=orange)
+
 ## 🚀 Project Philosophy
 This repository provides optimized **JS** and **CSS** logic for a responsive periodic table. In line with the **Kajotte Studio** philosophy, this project avoids heavy frameworks or CMS overhead, focusing on pure, efficient code.
 
